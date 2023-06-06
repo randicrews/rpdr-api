@@ -20,10 +20,9 @@ function getQueen(){
       if (!data.outcomes.includes('Winner')){
         document.querySelector('#crown').src = ''
       }
-
-
     })
-
 }
+
+
   
   

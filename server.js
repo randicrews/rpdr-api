@@ -13,462 +13,480 @@ const queens = {
         'dragName': 'Mystique Summers Madison',
         'seasons':[ 2 , 3 ],
         'age': 28,
-        'outcomess':[ '12th' , '6th']
+        'outcomes':[ '12th' , '6th']
     },
-// seasons 1 ],
+    'eureka o’hara': {
+      'dragName': 'Eureka O’Hara',
+      'seasons':[ 9, 10 ],
+      'age': 26,
+      'outcomes': ['11th (Departed Due to Injury)', 'Runner-up']
+    },
+    'cynthia lee fontaine': {
+      'dragName': 'Cynthia Lee Fontaine',
+      'seasons':[ 8, 9, ],
+      'age': 34,
+      'outcomes': [ '10th (Miss Congeniality)', '10th']
+    },
+    'vanessa vanjie mateo': {
+      'dragName': 'Vanessa Vanjie Mateo',
+      'seasons':[ 10, 11 ],
+      'age': 26,
+      'outcomes': ['14th', '5th']
+  },
+// season 1,
     'bebe zahara benet': {
         'dragName': 'BeBe Zahara Benet',
         'seasons':[ 1 ],
         'age': 28,
-        'outcomess':[ 'Winner' ]
+        'outcomes':[ 'Winner' ]
     },
     'nina flowers': {
         'dragName': 'Nina Flowers',
         'seasons':[ 1 ],
         'age': 34,
-        'outcomess':[ 'Runner-up' ]
+        'outcomes':[ 'Runner-up' ]
     },
     'rebecca glasscock': {
         'dragName': 'Rebecca Glasscock',
         'seasons':[ 1 ],
         'age': 26,
-        'outcomess':[ '3rd' ]
+        'outcomes':[ '3rd' ]
     },
     'shannel': {
         'dragName': 'Shannel',
         'seasons':[ 1 ],
         'age': 29,
-        'outcomess':[ '4th' ]
+        'outcomes':[ '4th' ]
     },
     'ongina': {
         'dragName': 'Ongina',
         'seasons':[ 1 ],
         'age': 26,
-        'outcomess':[ '5th' ]
+        'outcomes':[ '5th' ]
     },
     'jade sotomayor': {
         'dragName': 'Jade Sotomayor',
         'seasons':[ 1 ],
         'age': 25,
-        'outcomess':[ '6th' ]
+        'outcomes':[ '6th' ]
     },
     'akashia': {
         'dragName': 'Akashia',
         'seasons':[ 1 ],
         'age': 24,
-        'outcomess':[ '7th' ]
+        'outcomes':[ '7th' ]
     },
     'tammie brown': {
         'dragName': 'Tammie Brown',
         'seasons':[ 1 ],
         'age': 29,
-        'outcomess':[ '8th' ]
+        'outcomes':[ '8th' ]
     },
     'victoria "porkchop" parker': {
         'dragName': 'Victoria "Porkchop" Parker',
         'seasons':[ 1 ],
         'age': 39,
-        'outcomess':[ '9th' ]
+        'outcomes':[ '9th' ]
     },
 // seasons 2 
     'tyra sanchez': {
         'dragName': 'Tyra Sanchez',
         'seasons':[ 2 ],
         'age': 21,
-        'outcomess':[ 'Winner' ]
+        'outcomes':[ 'Winner' ]
     },
     'raven': {
         'dragName': 'Raven',
         'seasons':[ 2 ],
         'age': 30,
-        'outcomess':[ 'Runner-up' ]
+        'outcomes':[ 'Runner-up' ]
     },
     'jujubee': {
         'dragName': 'Jujubee',
         'seasons':[ 2 ],
         'age': 25,
-        'outcomess':[ '3rd' ]
+        'outcomes':[ '3rd' ]
     },
     'tatianna': {
         'dragName': 'Tatianna',
         'seasons':[ 2 ],
         'age': 21,
-        'outcomess':[ '4th' ]
+        'outcomes':[ '4th' ]
     },
-    'pandora box': {
-        'dragName': 'Pandora Box',
+    'pandora boxx': {
+        'dragName': 'Pandora Boxx',
         'seasons':[ 2 ],
         'age': 37,
-        'outcomess':[ '5th (Miss Congeniality)' ]
+        'outcomes':[ '5th (Miss Congeniality)' ]
     },
     'jessica wild': {
         'dragName': 'Jessica Wild',
         'seasons':[ 2 ],
         'age': 29,
-        'outcomess':[ '6th' ]
+        'outcomes':[ '6th' ]
     },
     'sahara davenport': {
         'dragName': 'Sahara Davenport',
         'seasons':[ 2 ],
         'age': 25,
-        'outcomess':[ '7th' ]
+        'outcomes':[ '7th' ]
     },
     'morgan mcmichaels': {
         'dragName': 'Morgan McMichaels',
         'seasons':[ 2 ],
         'age': 28,
-        'outcomess':[ '8th' ]
+        'outcomes':[ '8th' ]
     },
     'sonique': {
         'dragName': 'Sonique',
         'seasons':[ 2 ],
         'age': 26,
-        'outcomess':[ '9th' ]
+        'outcomes':[ '9th' ]
     },
     'mystique summers madison': {
         'dragName': 'Mystique Summers Madison',
         'seasons':[ 2 ],
         'age': 25,
-        'outcomess':[ '10th' ]
+        'outcomes':[ '10th' ]
     },
     'nicole paige brooks': {
         'dragName': 'Nicole Paige Brooks',
         'seasons':[ 2 ],
         'age': 36,
-        'outcomess':[ '11th' ]
+        'outcomes':[ '11th' ]
     },
     // 'shangela laquifa wadley': {
     //     'dragName': 'Mystique Summers Madison',
     //     'seasons':[ 2 ],
     //     'age': 28,
-    //     'outcomess':[ '12th' ]
+    //     'outcomes':[ '12th' ]
     // },
-// seasons 3 ],
+// seasons 3
     'raja': {
         'dragName': 'Raja',
         'seasons':[ 3 ],
         'age': 36,
-        'outcomess':[ 'Winner' ]
+        'outcomes':[ 'Winner' ]
     },
     'manila luzon': {
         'dragName': 'Manila Luzon',
         'seasons':[ 3 ],
         'age': 28,
-        'outcomess':[ 'Runner-up' ]
+        'outcomes':[ 'Runner-up' ]
     },
     'alexis mateo': {
         'dragName': 'Alexis Mateo',
         'seasons':[ 3 ],
         'age': 30,
-        'outcomess':[ '3rd' ]
+        'outcomes':[ '3rd' ]
     },
     'yara sofia': {
         'dragName': 'Yara Sofia',
         'seasons':[ 3 ],
         'age': 26,
-        'outcomess':[ '4th (Miss Congeniality)' ]
+        'outcomes':[ '4th (Miss Congeniality)' ]
     },
     'carmen carrera': {
         'dragName': 'Carmen Carrera',
         'seasons':[ 3 ],
         'age': 25,
-        'outcomess':[ '5th' ]
+        'outcomes':[ '5th' ]
     },
     // 'shangela': {
     //     'dragName': 'Shangela',
     //     'seasons':[ 3 ],
     //     'age': 29,
-    //     'outcomess':[ '6th' ]
+    //     'outcomes':[ '6th' ]
     // },
     'delta work': {
         'dragName': 'Delta Work',
         'seasons':[ 3 ],
         'age': 34,
-        'outcomess':[ '7th' ]
+        'outcomes':[ '7th' ]
     },
     'stacy layne matthews': {
         'dragName': 'Stacy Layne Matthews',
         'seasons':[ 3 ],
         'age': 25,
-        'outcomess':[ '8th' ]
+        'outcomes':[ '8th' ]
     },
     'mariah': {
         'dragName': 'Mariah',
         'seasons':[ 3 ],
         'age': 29,
-        'outcomess':[ '9th' ]
+        'outcomes':[ '9th' ]
     },
     'india ferrah': {
         'dragName': 'India Ferrah',
         'seasons':[ 3 ],
         'age': 23,
-        'outcomess':[ '10th' ]
+        'outcomes':[ '10th' ]
     },
     'mimi imfurst': {
         'dragName': 'Mimi Imfurst',
         'seasons':[ 3 ],
         'age': 27,
-        'outcomess':[ '11th' ]
+        'outcomes':[ '11th' ]
     },
     'phoenix': {
         'dragName': 'Phoenix',
         'seasons':[ 3 ],
         'age': 29,
-        'outcomess':[ '12th' ]
+        'outcomes':[ '12th' ]
     },
     'venus d-lite': {
         'dragName': 'Venus D-Lite',
         'seasons':[ 3 ],
         'age': 26,
-        'outcomess':[ '13th' ]
+        'outcomes':[ '13th' ]
     },
 // seasons 4 ],
     'sharon needles': {
       'dragName': 'Sharon Needles',
       'seasons':[ 4 ],
       'age': 29,
-      'outcomess':[ 'Winner' ]
+      'outcomes':[ 'Winner' ]
     },
     'chad michaels': {
       'dragName': 'Chad Michaels',
       'seasons':[ 4 ],
       'age': 40,
-      'outcomess':[ 'Runner-up' ]
+      'outcomes':[ 'Runner-up' ]
     },
-    "phi phi o'hara": {
-        'dragName': "Phi Phi O'Hara",
+    'phi phi o’hara': {
+        'dragName': 'Phi Phi O’Hara',
         'seasons':[ 4 ],
         'age': 25,
-        'outcomess':[ 'Runner-up' ]
+        'outcomes':[ 'Runner-up' ]
       },
     'latrice royale': {
       'dragName': 'Latrice Royale',
       'seasons':[ 4 ],
       'age': 39,
-      'outcomess':[ '4th (Miss Congeniality)' ]
+      'outcomes':[ '4th (Miss Congeniality)' ]
     },
     'kenya michaels': {
         'dragName': 'Kenya Michaels',
         'seasons':[ 4 ],
         'age': 21,
-        'outcomess':[ '5th' ]
+        'outcomes':[ '5th' ]
       },
     'dida ritz': {
       'dragName': 'Dida Ritz',
       'seasons':[ 4 ],
       'age': 25,
-      'outcomess':[ '6th' ]
+      'outcomes':[ '6th' ]
     },
     'willam': {
         'dragName': 'Willam',
         'seasons':[ 4 ],
         'age': 29,
-        'outcomess':[ '7th (Disqualified)' ]
+        'outcomes':[ '7th (Disqualified [Conjugal Visits])' ]
       },
     'milan': {
       'dragName': 'Milan',
       'seasons':[ 4 ],
       'age': 36,
-      'outcomess':[ '9th' ]
+      'outcomes':[ '9th' ]
     },
     'madame laqueer': {
       'dragName': 'Madame LaQueer',
       'seasons':[ 4 ],
       'age': 29,
-      'outcomess':[ '10th' ]
+      'outcomes':[ '10th' ]
     },
     'the princess': {
       'dragName': 'The Princess',
       'seasons':[ 4 ],
       'age': 31,
-      'outcomess':[ '11th' ]
+      'outcomes':[ '11th' ]
     },
     'lashauwn beyond': {
       'dragName': 'Lashauwn Beyond',
       'seasons':[ 4 ],
       'age': 21,
-      'outcomess':[ '12th' ]
+      'outcomes':[ '12th' ]
     },
     'alisa summers': {
       'dragName': 'Alisa Summers',
       'seasons':[ 4 ],
       'age': 23,
-      'outcomess':[ '13th' ]
+      'outcomes':[ '13th' ]
     },
 // seasons 5 ],
     'jinkx monsoon': {
         'dragName': 'Jinkx Monsoon',
         'seasons':[ 5 ],
         'age': 25,
-        'outcomess':[ 'Winner' ]
+        'outcomes':[ 'Winner' ]
       },
       'alaska thunderfuck': {
         'dragName': 'Alaska Thunderfuck',
         'seasons':[ 5 ],
         'age': 27,
-        'outcomess':[ 'Runner-up' ]
+        'outcomes':[ 'Runner-up' ]
       },
       'roxxxy andrews': {
         'dragName': 'Roxxxy Andrews',
         'seasons':[ 5 ],
         'age': 28,
-        'outcomess':[ 'Runner-Up' ]
+        'outcomes':[ 'Runner-Up' ]
       },
       'detox': {
         'dragName': 'Detox',
         'seasons':[ 5 ],
         'age': 27,
-        'outcomess':[ '4th' ]
+        'outcomes':[ '4th' ]
       },
       'coco montrese': {
         'dragName': 'Coco Montrese',
         'seasons':[ 5 ],
         'age': 37,
-        'outcomess':[ '5th' ]
+        'outcomes':[ '5th' ]
       },
       'alyssa edwards': {
         'dragName': 'Alyssa Edwards',
         'seasons':[ 5 ],
         'age': 32,
-        'outcomess':[ '6th' ]
+        'outcomes':[ '6th' ]
       },
       'ivy winters': {
         'dragName': 'Ivy Winters',
         'seasons':[ 5 ],
         'age': 26,
-        'outcomess':[ '7th (Miss Congeniality)'  ]
+        'outcomes':[ '7th (Miss Congeniality)'  ]
       },
       'jade jolie': {
         'dragName': 'Jade Jolie',
         'seasons':[ 5 ],
         'age': 25,
-        'outcomess':[ '8th' ]
+        'outcomes':[ '8th' ]
       },
       'lineysha sparx': {
         'dragName': 'Lineysha Sparx',
         'seasons':[ 5 ],
         'age': 24,
-        'outcomess':[ '9th' ]
+        'outcomes':[ '9th' ]
       },
       'honey mahogany': {
         'dragName': 'Honey Mahogany',
         'seasons':[ 5 ],
         'age': 29,
-        'outcomess':[ '10th/11th (Double Elimination)' ]
+        'outcomes':[ '10th/11th (Double Elimination)' ]
       },
       'vivienne pinay': {
         'dragName': 'Vivienne Pinay',
         'seasons':[ 5 ],
         'age': 26,
-        'outcomess':[ '10th/11th (Double Elimination)' ]
+        'outcomes':[ '10th/11th (Double Elimination)' ]
       },
       'monica beverly hillz': {
         'dragName': 'Monica Beverly Hillz',
         'seasons':[ 5 ],
         'age': 27,
-        'outcomess':[ '12th' ]
+        'outcomes':[ '12th' ]
       },
       'serena chacha': {
         'dragName': 'Serena ChaCha',
         'seasons':[ 5 ],
         'age': 21,
-        'outcomess':[ '13th' ]
+        'outcomes':[ '13th' ]
       },
       'penny tration': {
         'dragName': 'Penny Tration',
         'seasons':[ 5 ],
         'age': 39,
-        'outcomess':[ '14th' ]
+        'outcomes':[ '14th' ]
       },
-// seasons 6 ],
+// seasons 6
     'bianca del rio': {
       'dragName': 'Bianca Del Rio',
       'seasons':[ 6 ],
       'age': 38,
-      'outcomess':[ 'Winner' ]
+      'outcomes':[ 'Winner' ]
     },
     'adore delano': {
       'dragName': 'Adore Delano',
       'seasons':[ 6 ],
       'age': 23,
-      'outcomess':[ 'Runner-up' ]
+      'outcomes':[ 'Runner-up' ]
     },
     'courtney act': {
       'dragName': 'Courtney Act',
       'seasons':[ 6 ],
       'age': 33,
-      'outcomess':[ 'Runner-up' ]
+      'outcomes':[ 'Runner-up' ]
     },
     'darienne lake': {
       'dragName': 'Darienne Lake',
       'seasons':[ 6 ],
       'age': 41,
-      'outcomess':[ '4th' ]
+      'outcomes':[ '4th' ]
     },
     'ben dela creme': {
       'dragName': 'BenDeLaCreme',
       'seasons':[ 6 ],
       'age': 31,
-      'outcomess':[ '5th (Miss Congeniality)' ]
+      'outcomes':[ '5th (Miss Congeniality)' ]
     },
     'joslyn fox': {
       'dragName': 'Joslyn Fox',
       'seasons':[ 6 ],
       'age': 26,
-      'outcomess':[ '6th' ]
+      'outcomes':[ '6th' ]
     },
     'trinity k. bonet': {
       'dragName': 'Trinity K. Bonet',
       'seasons':[ 6 ],
       'age': 22,
-      'outcomess':[ '7th' ]
+      'outcomes':[ '7th' ]
     },
     'laganja estranja': {
         'dragName': 'Laganja Estranja',
         'seasons':[ 6 ],
         'age': 24,
-        'outcomess':[ '8th' ]
+        'outcomes':[ '8th' ]
     },
     'milk': {
       'dragName': 'Milk',
       'seasons':[ 6 ],
       'age': 25,
-      'outcomess':[ '9th' ]
+      'outcomes':[ '9th' ]
     },
     'gia gunn': {
       'dragName': 'Gia Gunn',
       'seasons':[ 6 ],
       'age': 22,
-      'outcomess':[ '10th' ]
+      'outcomes':[ '10th' ]
     },
     'april carrion': {
       'dragName': 'April Carrión',
       'seasons':[ 6 ],
       'age': 23,
-      'outcomess':[ '11th' ]
+      'outcomes':[ '11th' ]
     },
     'vivacious': {
       'dragName': 'Vivacious',
       'seasons':[ 6 ],
       'age': 40,
-      'outcomess':[ '12th' ]
+      'outcomes':[ '12th' ]
     },
     'magnolia crawford': {
       'dragName': 'Magnolia Crawford',
       'seasons':[ 6 ],
       'age': 28,
-      'outcomess':[ '13th' ]
+      'outcomes':[ '13th' ]
     },
     'kelly mantle': {
         'dragName': 'Kelly Mantle',
         'seasons':[ 6 ],
         'age': 37,
-        'outcomess':[ '14th' ]
+        'outcomes':[ '14th' ]
     },
 // seasons 7 ],
   'violet chachki': {
     'dragName': 'Violet Chachki',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Jason Dardo',
     'age': 22,
     'hometown': 'Atlanta, Georgia',
@@ -476,7 +494,7 @@ const queens = {
   },
   'ginger minj': {
     'dragName': 'Ginger Minj',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Joshua Eads-Brown',
     'age': 29,
     'hometown': 'Orlando, Florida',
@@ -484,7 +502,7 @@ const queens = {
   },
   'pearl': {
     'dragName': 'Pearl',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Matthew Lent',
     'age': 23,
     'hometown': 'Brooklyn, New York',
@@ -492,7 +510,7 @@ const queens = {
   },
   'kennedy davenport': {
     'dragName': 'Kennedy Davenport',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Reuben Asberry Jr.',
     'age': 33,
     'hometown': 'Dallas, Texas',
@@ -500,7 +518,7 @@ const queens = {
   },
   'katya': {
     'dragName': 'Katya',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Brian McCook',
     'age': 32,
     'hometown': 'Boston, Massachusetts',
@@ -508,7 +526,7 @@ const queens = {
   },
   'trixie mattel': {
     'dragName': 'Trixie Mattel',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Brian Firkus',
     'age': 24,
     'hometown': 'Milwaukee, Wisconsin',
@@ -516,7 +534,7 @@ const queens = {
   },
   'miss fame': {
     'dragName': 'Miss Fame',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Kurtis Dam-Mikkelsen',
     'age': 29,
     'hometown': 'New York City, New York',
@@ -524,7 +542,7 @@ const queens = {
   },
   'jaidynn diore fierce': {
     'dragName': 'Jaidynn Diore Fierce',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Christopher Caldwell',
     'age': 25,
     'hometown': 'Nashville, Tennessee',
@@ -532,7 +550,7 @@ const queens = {
   },
   'max': {
     'dragName': 'Max',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Maxwell Heller',
     'age': 22,
     'hometown': 'Hudson, Wisconsin',
@@ -540,7 +558,7 @@ const queens = {
   },
   'kandy ho': {
     'dragName': 'Kandy Ho',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Franklin Arbot',
     'age': 28,
     'hometown': 'Cayey, Puerto Rico',
@@ -548,21 +566,21 @@ const queens = {
   },
   'mrs. kasha davis': {
     'dragName': 'Mrs. Kasha Davis',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'age': 43,
     'hometown': 'Rochester, New York',
     'outcomes': [ '11th' ],
   },
-  'mrs. kasha davis': {
-    'dragName': 'Mrs. Kasha Davis',
-    'seasons': [ 6 ],
-    'age': 43,
+  'jasmine masters': {
+    'dragName': 'Jasmine Masters',
+    'seasons': [ 7 ],
+    'age': 37,
     'hometown': 'Los Angeles, California',
     'outcomes': [ '12th' ],
   },
   'sasha belle': {
     'dragName': 'Sasha Belle',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Jared Breakenridge',
     'age': 28,
     'hometown': 'Iowa City, IA',
@@ -570,571 +588,758 @@ const queens = {
   },
   'tempest dujour': {
     'dragName': 'Tempest DuJour',
-    'seasons': [ 6 ],
+    'seasons': [ 7 ],
     'realName': 'Patrick Holt',
     'age': 47,
     'hometown': 'Tucson, Arizona',
     'outcomes': [ '14th' ],
   },
-// seasons 8 ],
+// season 8
   'bob the drag queen': {
     'dragName': 'Bob The Drag Queen',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 29,
-    'outcomes': [
-      'Winner',
-    ]
+    'outcomes': [ 'Winner' ]
   },
   'kim chi': {
     'dragName': 'Kim Chi',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 27,
-    'outcomes': [
-      'Runner-up',
-    ]
+    'outcomes': [ 'Runner-up' ]
   },
   'naomi smalls': {
     'dragName': 'Naomi Smalls',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 21,
-    'outcomes': [
-      'Runner-up'
-    ]
+    'outcomes': [ 'Runner-up' ]
   },
   'chi chi devayne': {
     'dragName': 'Chi Chi DeVayne',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 29,
-    'outcomes': [
-      '4th'
-    ]
+    'outcomes': [ '4th' ]
   },
   'derrick barry': {
     'dragName': 'Derrick Barry',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 32,
-    'outcomes': [
-      '5th'
-    ]
+    'outcomes': [ '5th' ]
   },
   'thorgy thor': {
     'dragName': 'Thorgy Thor',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 31,
-    'outcomes': [
-      '6th'
-    ]
+    'outcomes': [ '6th' ]
   },
   'robbie turner': {
     'dragName': 'Robbie Turner',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 33,
-    'outcomes': [
-      '7th'
-    ]
+    'outcomes': [ '7th' ]
   },
   'acid betty': {
     'dragName': 'Acid Betty',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 38,
-    'outcomes': [
-      '8th'
-    ]
+    'outcomes': [ '8th' ]
   },
   'naysha lopez': {
     'dragName': 'Naysha Lopez',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 31,
-    'outcomes': [
-      '9th (Originally 12th but returned Episode 3)'
-    ]
+    'outcomes': [ '9th (Originally 12th but returned Episode 3)' ]
   },
-  'cynthia lee fontaine': {
-    'dragName': 'Cynthia Lee Fontaine',
-    'season': 8,
-    'age': 34,
-    'outcomes': [
-      '10th (Miss Congeniality)'
-    ]
-  },
+  // 'cynthia lee fontaine': {
+  //   'dragName': 'Cynthia Lee Fontaine',
+  //   'seasons':[ 8, ],
+  //   'age': 34,
+  //   'outcomes': [ '10th (Miss Congeniality)' ]
+  // },
   'laila mcqueen': {
     'dragName': 'Laila McQueen',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 22,
-    'outcomes': [
-      '11th/12th (Double Elimination)'
-    ]
+    'outcomes': [ '11th/12th (Double Elimination)' ]
   },
   'dax exclamationpoint': {
     'dragName': 'Dax ExclamationPoint',
-    'season': 8,
+    'seasons':[ 8, ],
     'age': 31,
-    'outcomes': [
-      '11th/12th (Double Elimination)'
-    ]
+    'outcomes': [ '11th/12th (Double Elimination)' ]
   },
-// season 9 
+// seasons 9[  ],
   'sasha velour': {
     'dragName': 'Sasha Velour',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 29,
     'outcomes': ['Winner']
   },
   'peppermint': {
     'dragName': 'Peppermint',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 37,
     'outcomes': ['Runner-up']
   },
   'shea coulee': {
     'dragName': 'Shea Coulee',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 27,
     'outcomes': ['3rd']
   },
   'trinity taylor': {
     'dragName': 'Trinity Taylor',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 31,
     'outcomes': ['4th']
   },
   'alexis michelle': {
     'dragName': 'Alexis Michelle',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 33,
     'outcomes': [ '5th' ]
   },
-  "nina bo'nina brown": {
-    'dragName': "Nina Bo'nina Brown",
-    'season': 9,
+  'nina bo’nina brown': {
+    'dragName': 'Nina Bo’nina Brown',
+    'seasons':[ 9, ],
     'age': 34,
     'outcomes': ['6th']
   },
   'valentina': {
     'dragName': 'Valentina',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 25,
     'outcomes': ['7th (Miss Congeniality)']
   },
   'farrah moan': {
     'dragName': 'Farrah Moan',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 23,
     'outcomes': ['8th']
   },
   'aja': {
     'dragName': 'Aja',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 22,
     'outcomes': ['9th']
   },
-  'cynthia lee fontaine': {
-    'dragName': 'Cynthia Lee Fontaine',
-    'season': 9,
-    'age': 35,
-    'outcomes': ['10th']
-  },
-  "eureka o'hara": {
-    'dragName': "Eureka O'Hara",
-    'season': 9,
-    'age': 26,
-    'outcomes': ['11th (Due to Injury)']
-  },
+  // 'cynthia lee fontaine': {
+  //   'dragName': 'Cynthia Lee Fontaine',
+  //   'seasons':[ 9, ],
+  //   'age': 35,
+  //   'outcomes': ['10th']
+  // },
+  //   'eureka o’hara': {
+  //   'dragName': 'Eureka O’Hara',
+  //   'seasons':[ 9, ],
+  //   'age': 26,
+  //   'outcomes': ['11th (Departed Due to Injury)']
+  // },
   'charlie hides': {
     'dragName': 'Charlie Hides',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 52,
     'outcomes': ['12th']
   },
   'kimora blac': {
     'dragName': 'Kimora Blac',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 28,
     'outcomes': ['13th']
   },
   'jaymes mansfield': {
     'dragName': 'Jaymes Mansfield',
-    'season': 9,
+    'seasons':[ 9, ],
     'age': 26,
     'outcomes': ['14th']
   },
-
-// seasons 1[ ],
+// season 10
   'aquaria': {
     'dragName': 'Aquaria',
-    'season': 10,
-    'age': 22,
+    'seasons':[ 10, ],
+    'age': 21,
     'outcomes': ['Winner']
+  },
+  // 'eureka o’hara': {
+  //   'dragName': 'Eureka O’Hara',
+  //   'seasons':[ 10, ],
+  //   'age': 27,
+  //   'outcomes': ['Runner-up']
+  // },
+  'kameron michaels': {
+    'dragName': 'Kameron Michaels',
+    'seasons':[ 10, ],
+    'age': 31,
+    'outcomes': ['Runner-up']
   },
   'asia o’hara': {
     'dragName': 'Asia O’Hara',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 35,
-    'outcomes': ['Runner-up']
+    'outcomes': ['4th']
   },
-  'eureka o’hara': {
-    'dragName': 'Eureka O’Hara',
-    'season': 10,
-    'age': 27,
-    'outcomes': ['3rd/4th']
-  },
-  'kameron michaels': {
-    'dragName': 'Kameron Michaels',
-    'season': 10,
-    'age': 31,
-    'outcomes': ['3rd/4th']
-  },
-  'asia t. o’hara': {
-    'dragName': 'Asia T. O’Hara',
-    'season': 10,
-    'age': 35,
+  'miz cracker': {
+    'dragName': 'Miz Cracker',
+    'seasons':[ 10, ],
+    'age': 33,
     'outcomes': ['5th']
   },
-  'monét x change': {
+  'monet x change': {
     'dragName': 'Monét X Change',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 27,
-    'outcomes': ['6th']
-  },
-  'blair st. clair': {
-    'dragName': 'Blair St. Clair',
-    'season': 10,
-    'age': 22,
-    'outcomes': ['7th']
+    'outcomes': ['6th (Miss Congeniality)']
   },
   'the vixen': {
     'dragName': 'The Vixen',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 26,
+    'outcomes': ['7th']
+  },
+  'mo heart': {
+    'dragName': 'Mo Heart',
+    'seasons':[ 10, ],
+    'age': 31,
     'outcomes': ['8th']
   },
-  'monique heart': {
-    'dragName': 'Monique Heart',
-    'season': 10,
-    'age': 31,
+  'blair st. clair': {
+    'dragName': 'Blair St. Clair',
+    'seasons':[ 10, ],
+    'age': 22,
     'outcomes': ['9th']
-  },
-  'dusty ray bottoms': {
-    'dragName': 'Dusty Ray Bottoms',
-    'season': 10,
-    'age': 29,
-    'outcomes': ['10th']
   },
   'mayhem miller': {
     'dragName': 'Mayhem Miller',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 35,
+    'outcomes': ['10th']
+  },
+  'dusty ray bottoms': {
+    'dragName': 'Dusty Ray Bottoms',
+    'seasons':[ 10, ],
+    'age': 29,
     'outcomes': ['11th']
   },
   'yuhua hamasaki': {
     'dragName': 'Yuhua Hamasaki',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 27,
     'outcomes': ['12th']
   },
   'kalorie karbdashian-williams': {
     'dragName': 'Kalorie Karbdashian-Williams',
-    'season': 10,
+    'seasons':[ 10, ],
     'age': 27,
     'outcomes': ['13th']
   },
-  'vanessa vanjie mateo': {
-    'dragName': 'Vanessa Vanjie Mateo',
-    'season': 10,
+//   'vanessa vanjie mateo': {
+//     'dragName': 'Vanessa Vanjie Mateo',
+//     'seasons':[ 10, ],
+//     'age': 26,
+//     'outcomes': ['14th']
+// },
+// seasons 1[1 ],
+  'yvie oddly': {
+    'dragName': 'Yvie Oddly',
+    'seasons':[ 11, ],
+    'age': 24,
+    'hometown': 'Denver, Colorado',
+    'outcomes': ['Winner']
+  },
+  'brooke lynn hytes': {
+    'dragName': 'Brooke Lynn Hytes',
+    'seasons':[ 11, ],
+    'age': 32,
+    'hometown': 'Nashville, TN',
+    'outcomes': ['Runner-up']
+  },
+  'a’keria davenport': {
+    'dragName': 'A’keria Chanel Davenport',
+    'seasons':[ 11, ],
+    'age': 30,
+    'hometown': 'Dallas, Texas',
+    'outcomes': ['3rd']
+  },
+  'silky nutmeg ganache': {
+    'dragName': 'Silky Nutmeg Ganache',
+    'seasons':[ 11, ],
+    'age': 28,
+    'hometown': 'Chicago, Illinois',
+    'outcomes': ['4th'],
+  },
+  // 'vanessa vanjie mateo': {
+  //   'dragName': 'Vanessa Vanjie Mateo',
+  //   'seasons':[ 11, ],
+  //   'age': 26,
+  //   'hometown': 'Tampa, Flordia',
+  //   'outcomes': ['5th']
+  // },
+  'nina west': {
+    'dragName': 'Nina West',
+    'seasons':[ 11, ],
+    'age': 39,
+    'hometown': 'Columbus, Ohio',
+    'outcomes': ['6th (Miss Congeniality)']
+  },
+  'shuga cain': {
+    'dragName': 'Shuga Cain',
+    'seasons':[ 11, ],
+    'age': 40,
+    'hometown': 'New York City, New York',
+    'outcomes': ['7th']
+  },
+  'plastique tiara': {
+    'dragName': 'Plastique Tiara',
+    'seasons':[ 11, ],
+    'age': 21,
+    'hometown': 'Dallas, Texas',
+    'outcomes': ['8th']
+  },
+  'ra’jah o’hara': {
+    'dragName': 'Ra’Jah O’Hara',
+    'seasons':[ 11, ],
+    'age': 33,
+    'hometown': 'Dallas, Texas',
+    'outcomes': ['9th']
+  },
+  'scarlet envy': {
+    'dragName': 'Scarlet Envy',
+    'seasons':[ 11, ],
     'age': 26,
+    'hometown': 'Brooklyn, New York',
+    'outcomes': ['10th']
+  },
+  'ariel versace': {
+    'dragName': 'Ariel Versace',
+    'seasons':[ 11, ],
+    'age': 26,
+    'hometown': 'Cherry Hill, New Jersey',
+    'outcomes': ['11th']
+  },
+  'mercedes iman diamond': {
+    'dragName': 'Mercedes Iman Diamond',
+    'seasons':[ 11, ],
+    'age': 31,
+    'hometown': 'Minneapolis, MN',
+    'outcomes': ['12th']
+  },
+  'honey davenport': {
+    'dragName': 'Honey Davenport',
+    'seasons':[ 11, ],
+    'age': 32,
+    'hometown': 'New York City, NY',
+    'outcomes': ['13th']
+  },
+  'kahanna montrese': {
+    'dragName': 'Kahanna Montrese',
+    'seasons':[ 11, ],
+    'age': 25,
+    'hometown': 'Las Vegas, Nevada',
     'outcomes': ['14th']
   },
-// season 10
-'aquaria': {
-  'dragName': 'Aquaria',
-  'season': 10,
-  'age': 21,
-  'outcomes': ['Winner']
-},
-'eureka o’hara': {
-  'dragName': 'Eureka O’Hara',
-  'season': 10,
-  'age': 27,
-  'outcomes': ['Runner-up']
-},
-'kameron michaels': {
-  'dragName': 'Kameron Michaels',
-  'season': 10,
-  'age': 31,
-  'outcomes': ['Runner-up']
-},
-'asia o’hara': {
-  'dragName': 'Asia O’Hara',
-  'season': 10,
-  'age': 35,
-  'outcomes': ['4th']
-},
-'miz cracker': {
-  'dragName': 'Miz Cracker',
-  'season': 10,
-  'age': 33,
-  'outcomes': ['5th']
-},
-'monét x change': {
-  'dragName': 'Monét X Change',
-  'season': 10,
-  'age': 27,
-  'outcomes': ['6th (Miss Congeniality)']
-},
-'the vixen': {
-  'dragName': 'The Vixen',
-  'season': 10,
-  'age': 26,
-  'outcomes': ['7th']
-},
-'monique heart': {
-  'dragName': 'Monique Heart',
-  'season': 10,
-  'age': 31,
-  'outcomes': ['8th']
-},
-'blair st. clair': {
-  'dragName': 'Blair St. Clair',
-  'season': 10,
-  'age': 22,
-  'outcomes': ['9th']
-},
-'mayhem miller': {
-  'dragName': 'Mayhem Miller',
-  'season': 10,
-  'age': 35,
-  'outcomes': ['10th']
-},
-'dusty ray bottoms': {
-  'dragName': 'Dusty Ray Bottoms',
-  'season': 10,
-  'age': 29,
-  'outcomes': ['11th']
-},
-'yuhua hamasaki': {
-  'dragName': 'Yuhua Hamasaki',
-  'season': 10,
-  'age': 27,
-  'outcomes': ['12th']
-},
-'kalorie karbdashian-williams': {
-  'dragName': 'Kalorie Karbdashian-Williams',
-  'season': 10,
-  'age': 27,
-  'outcomes': ['13th']
-},
-'vanessa vanjie mateo': {
-  'dragName': 'Vanessa Vanjie Mateo',
-  'season': 10,
-  'age': 26,
-  'outcomes': ['14th']
-},
-// season 11
-'yvie oddly': {
-  'dragName': 'Yvie Oddly',
-  'season': 11,
-  'age': 24,
-  'hometown': 'Denver, Colorado',
-  'outcomes': ['Winner']
-},
-'brooke lynn hytes': {
-  'dragName': 'Brooke Lynn Hytes',
-  'season': 11,
-  'age': 32,
-  'hometown': 'Nashville, TN',
-  'outcomes': ['Runner-up']
-},
-"a'keria davenport": {
-  'dragName': "A'keria Chanel Davenport",
-  'season': 11,
-  'age': 30,
-  'hometown': 'Dallas, Texas',
-  'outcomes': ['3rd']
-},
-'silky nutmeg ganache': {
-  'dragName': 'Silky Nutmeg Ganache',
-  'season': 11,
-  'age': 28,
-  'hometown': 'Chicago, Illinois',
-  'outcomes': ['4th'],
-},
-'vanessa vanjie mateo': {
-  'dragName': 'Vanessa Vanjie Mateo',
-  'season': 11,
-  'age': 26,
-  'hometown': 'Tampa, Flordia',
-  'outcomes': ['5th']
-},
-'nina west': {
-  'dragName': 'Nina West',
-  'season': 11,
-  'age': 39,
-  'hometown': 'Columbus, Ohio',
-  'outcomes': ['6th (Miss Congeniality)']
-},
-'shuga cain': {
-  'dragName': 'Shuga Cain',
-  'season': 11,
-  'age': 40,
-  'hometown': 'New York City, New York',
-  'outcomes': ['7th']
-},
-'plastique tiara': {
-  'dragName': 'Plastique Tiara',
-  'season': 11,
-  'age': 21,
-  'hometown': 'Dallas, Texas',
-  'outcomes': ['8th']
-},
-"ra'jah o'hara": {
-  'dragName': "Ra'Jah O'Hara",
-  'season': 11,
-  'age': 33,
-  'hometown': 'Dallas, Texas',
-  'outcomes': ['9th']
-},
-'scarlet envy': {
-  'dragName': 'Scarlet Envy',
-  'season': 11,
-  'age': 26,
-  'hometown': 'Brooklyn, New York',
-  'outcomes': ['10th']
-},
-'ariel versace': {
-  'dragName': 'Ariel Versace',
-  'season': 11,
-  'age': 26,
-  'hometown': 'Cherry Hill, New Jersey',
-  'outcomes': ['11th']
-},
-'mercedes iman diamond': {
-  'dragName': 'Mercedes Iman Diamond',
-  'season': 11,
-  'age': 31,
-  'hometown': 'Minneapolis, MN',
-  'outcomes': ['12th']
-},
-'honey davenport': {
-  'dragName': 'Honey Davenport',
-  'season': 11,
-  'age': 32,
-  'hometown': 'New York City, NY',
-  'outcomes': ['13th']
-},
-'kahanna montrese': {
-  'dragName': 'Honey Davenport',
-  'season': 11,
-  'age': 25,
-  'hometown': 'Las Vegas, Nevada',
-  'outcomes': ['14th']
-},
-'soju': {
-  'dragName': 'Soju',
-  'season': 11,
-  'age': 27,
-  'hometown': 'Chicago, Illinois',
-  'outcomes': ['15th']
-},
-//season 12
-'akeria c. davenport': {
-  'dragName': 'A'keria C. Davenport',
-  'season': 12,
-  'age': 32,
-  'hometown': 'Dallas, TX',
-  'outcomes': ['3rd/4th']
-},
-'aiden zhane': {
-  'dragName': 'Aiden Zhane',
-  'season': 12,
-  'age': 29,
-  'hometown': 'Acworth, GA',
-  'outcomes': ['9th']
-},
-'brita': {
-  'dragName': 'Brita',
-  'season': 12,
-  'age': 34,
-  'hometown': 'New York City, NY',
-  'outcomes': ['8th']
-},
-'crystal methyd': {
-  'dragName': 'Crystal Methyd',
-  'season': 12,
-  'age': 28,
-  'hometown': 'Springfield, MO',
-  'outcomes': ['2nd']
-},
-'dahlia sin': {
-  'dragName': 'Dahlia Sin',
-  'season': 12,
-  'age': 28,
-  'hometown': 'Los Angeles, CA',
-  'outcomes': ['13th']
-},
-'gigi goode': {
-  'dragName': 'Gigi Goode',
-  'season': 12,
-  'age': 22,
-  'hometown': 'Los Angeles, CA',
-  'outcomes': ['Runner-up']
-},
-'heidi n closet': {
-  'dragName': 'Heidi N Closet',
-  'season': 12,
-  'age': 24,
-  'hometown': 'Ramseur, NC',
-  'outcomes': ['4th']
-},
-'jackie cox': {
-  'dragName': 'Jackie Cox',
-  'season': 12,
-  'age': 34,
-  'hometown': 'New York City, NY',
-  'outcomes': ['5th']
-},
-'jaida essence hall': {
-  'dragName': 'Jaida Essence Hall',
-  'season': 12,
-  'age': 34,
-  'hometown': 'Milwaukee, WI',
-  'outcomes': ['Winner']
-},
-'jan': {
-  'dragName': 'Jan',
-  'season': 12,
-  'age': 26,
-  'hometown': 'New York City, NY',
-  'outcomes': ['7th']
-},
-'nicky doll': {
-  'dragName': 'Nicky Doll',
-  'season': 12,
-  'age': 28,
-  'hometown': 'New York City, NY',
-  'outcomes': ['6th']
-},
-'rock m. sakura': {
-  'dragName': 'Rock M. Sakura',
-  'season': 12,
-  'age': 28,
-  'hometown': 'San Francisco, CA',
-  'outcomes': ['11th']
-},
-'sherry pie': {
-  'dragName': 'Sherry Pie',
-  'season': 12,
-  'age': 27,
-  'hometown': 'New York City, NY',
-  'outcomes': ['Disqualified']
-},
-"widow von'du": {
-  'dragName': "Widow Von'Du",
-  'season': 12,
-  'age': 30,
-  'hometown': 'Kansas City, MO',
-  'outcomes': ['6th']
-}
-}
+  'soju': {
+    'dragName': 'Soju',
+    'seasons':[ 11, ],
+    'age': 27,
+    'hometown': 'Chicago, Illinois',
+    'outcomes': ['15th']
+  },
+//seasons 1[2 ],
+  'jaida essence hall': {
+    'dragName': 'Jaida Essence Hall',
+    'seasons':[ 12, ],
+    'age': 32,
+    'hometown': 'Milwaukee, WI',
+    'outcomes': ['Winner']
+  },
+  'crystal methyd': {
+    'dragName': 'Crystal Methyd',
+    'seasons':[ 12, ],
+    'age': 28,
+    'hometown': 'Springfield, MO',
+    'outcomes': ['Runner-up']
+  },
+  'gigi goode': {
+    'dragName': 'Gigi Goode',
+    'seasons':[ 12, ],
+    'age': 21,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['Runner-up']
+  },
+  'sherry pie': {
+    'dragName': 'Sherry Pie',
+    'seasons':[ 12, ],
+    'age': 27,
+    'hometown': 'New York City, New York',
+    'outcomes': ['Disqualified [Sexual Misconduct] ']
+  },
+  'jackie cox': {
+    'dragName': 'Jackie Cox',
+    'seasons':[ 12, ],
+    'age': 34,
+    'hometown': 'New York City, New York',
+    'outcomes': ['5th']
+  },
+  'heidi n closet': {
+    'dragName': 'Heidi N Closet',
+    'seasons':[ 12, ],
+    'age': 24,
+    'hometown': 'Ramseur, North Carlina',
+    'outcomes': ['6th (Miss Congeniality)']
+  },
+  'widow von’du': {
+    'dragName': 'Widow Von’Du',
+    'seasons':[ 12, ],
+    'age': 30,
+    'hometown': 'Kansas City, MO',
+    'outcomes': ['7th']
+  },
+  'jan': {
+    'dragName': 'Jan',
+    'seasons':[ 12, ],
+    'age': 26,
+    'hometown': 'New York City, New York',
+    'outcomes': ['8th']
+  },
+  'brita': {
+    'dragName': 'Brita',
+    'seasons':[ 12, ],
+    'age': 34,
+    'hometown': 'New York City, New York',
+    'outcomes': ['9th']
+  },
+  'aiden zhane': {
+    'dragName': 'Aiden Zhane',
+    'seasons':[ 12, ],
+    'age': 29,
+    'hometown': 'Acworth, Georgia',
+    'outcomes': ['10th']
+  },
+  'nicky doll': {
+    'dragName': 'Nicky Doll',
+    'seasons':[ 12, ],
+    'age': 28,
+    'hometown': 'New York City, New York',
+    'outcomes': ['11th']
+  },
+  'rock m. sakura': {
+    'dragName': 'Rock M. Sakura',
+    'seasons':[ 12, ],
+    'age': 28,
+    'hometown': 'San Francisco, California',
+    'outcomes': ['12th']
+  },
+  'dahlia sin': {
+    'dragName': 'Dahlia Sin',
+    'seasons':[ 12, ],
+    'age': 28,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['13th']
+  },
+// seasons 1[3 ],
+  'symone': {
+    'dragName': 'Symone',
+    'seasons':[ 13, ],
+    'age': 25,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['Winner']
+  },
+  'kandy muse': {
+    'dragName': 'Kandy Muse',
+    'seasons':[ 13, ],
+    'age': 25,
+    'hometown': 'New York City, New York',
+    'outcomes': ['Runner-Up']
+  },
+  'gottmik': {
+    'dragName': 'Gottmik',
+    'seasons':[ 13, ],
+    'age': 23,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['3th']
+  },
+  'rose': {
+    'dragName': 'Rosé',
+    'seasons':[ 13, ],
+    'age': 34,
+    'hometown': 'New York City, New York',
+    'outcomes': ['4th']
+  },
+  'olivia lux': {
+    'dragName': 'Olivia Lux',
+    'seasons':[ 13, ],
+    'age': 26,
+    'hometown': 'New York City, New York',
+    'outcomes': ['5th']
+  },
+  'utica queen': {
+    'dragName': 'Utica Queen',
+    'seasons':[ 13, ],
+    'age': 25,
+    'hometown': 'Minneapolis, MN',
+    'outcomes': ['6th']
+  },
+    'tina burner': {
+    'dragName': 'Tina Burner',
+    'seasons':[ 13, ],
+    'age': 40,
+    'hometown': 'New York City, New York',
+    'outcomes': ['7th']
+    },
+  'denali': {
+    'dragName': 'Denali',
+    'seasons':[ 13, ],
+    'age': 28,
+    'hometown': 'Chicago, Illinois',
+    'outcomes': ['8th']
+  },
+  'elliott with 2 ts': {
+    'dragName': 'Elliott with 2 Ts',
+    'seasons':[ 13, ],
+    'age': 26,
+    'hometown': 'Las Vegas, Nevada',
+    'outcomes': ['7th']
+  },
+  'lala ri': {
+    'dragName': 'Lala Ri',
+    'seasons':[ 13, ],
+    'age': 30,
+    'hometown': 'Atlanta, Georgia',
+    'outcomes': ['10th (Miss Congeniality & Golden Boot)']
+  },
+  'tamisha iman': {
+    'dragName': 'Tamisha Iman',
+    'seasons':[ 13, ],
+    'age': 49,
+    'hometown': 'Atlanta, Georgia',
+    'outcomes': ['11th']
+  },
+  'joey jay': {
+    'dragName': 'Joey Jay',
+    'seasons':[ 13, ],
+    'age': 30,
+    'hometown': 'Phoenix, Arizona',
+    'outcomes': ['12th']
+  },
+  'kahmora hall': {
+    'dragName': 'Kahmora Hall',
+    'seasons':[ 13, ],
+    'age': 28,
+    'hometown': 'Chicago, Illinois',
+    'outcomes': ['13th']
+  },
+// seasons 1[4 ],
+  'willow pill': {
+    'dragName': 'Willow Pill',
+    'seasons':[ 14, ],
+    'age': 26,
+    'hometown': 'Denver, CO',
+    'outcomes': ['Winner']
+    },
+    'lady camden': {
+    'dragName': 'Lady Camden',
+    'seasons':[ 14, ],
+    'age': 31,
+    'hometown': 'Sacramento, California',
+    'outcomes': ['Runner-Up']
+    },
+    'angeria paris vanmicheals': {
+    'dragName': 'Angeria Paris VanMichaels',
+    'seasons':[ 14, ],
+    'age': 27,
+    'hometown': 'Atlanta, Georgia',
+    'outcomes': ['Top 5']
+    },
+    'bosco': {
+    'dragName': 'Bosco',
+    'seasons':[ 14, ],
+    'age': 28,
+    'hometown': 'Seattle, Washington',
+    'outcomes': ['Top 5']
+    },
+    'daya betty': {
+    'dragName': 'Daya Betty',
+    'seasons':[ 14, ],
+    'age': 27,
+    'hometown': 'Seattle, WA',
+    'outcomes': ['Top 5 (Originally 13th but returned Episode 3)']
+    },
+    'deja skye': {
+    'dragName': 'DeJa Skye',
+    'seasons':[ 14, ],
+    'age': 31,
+    'hometown': 'Fesno, California',
+    'outcomes': ['6th/7th (Double Elimination)']
+    },
+    'jorgeous': {
+    'dragName': 'Jorgeous',
+    'seasons':[ 14, ],
+    'age': 21,
+    'hometown': 'Nashville, TN',
+    'outcomes': ['6th/7th (Double Elimination)']
+    },
+    'jasmine kennedie': {
+    'dragName': 'Jasmine Kennedie',
+    'seasons':[ 14, ],
+    'age': 22,
+    'hometown': 'New York City, New York',
+    'outcomes': ['8th']
+    },
+    'kerri colby': {
+    'dragName': 'Kerri Colby',
+    'seasons':[ 14, ],
+    'age': 24,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['9th']
+    },
+    'maddy morphosis': {
+    'dragName': 'Maddy Morphosis',
+    'seasons':[ 14, ],
+    'age': 26,
+    'hometown': 'Fayetteville, AR',
+    'outcomes': ['10th (Golden Boot)']
+    },
+    'orion story': {
+    'dragName': 'Orion Story',
+    'seasons':[ 14, ],
+    'age': 30,
+    'hometown': 'Dallas, TX',
+    'outcomes': ['11th (Originally 14th but returned Episode 3)']
+    },
+    'kornbread "the snack" jete': {
+    'dragName': 'Kornbread "The Snack" Jete',
+    'seasons':[ 14, ],
+    'age': 28,
+    'hometown': 'Birmingham, AL',
+    'outcomes': ['12th (Miss Congeniality, Departed Due to Injury)']
+    },
+    'alyssa hunter': {
+    'dragName': 'Alyssa Hunter',
+    'seasons':[ 14, ],
+    'age': 26,
+    'hometown': 'Cataño, Puerto Rico',
+    'outcomes': ['13th']
+    },
+    'june jambalaya': {
+    'dragName': 'June Jambalaya',
+    'seasons':[ 14, ],
+    'age': 29,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['14th']
+    },
+// seasons 1[5 ],
+    'sasha colby': {
+    'dragName': 'Sasha Colby',
+    'seasons':[ 15, ],
+    'age': 37,
+    'hometown': 'Los Angeles, CA',
+    'outcomes': ['Winner']
+    },
+    'anetra': {
+    'dragName': 'Anetra',
+    'seasons':[ 15, ],
+    'age': 24,
+    'hometown': 'Las Vegas, Nevada',
+    'outcomes': ['Runner-Up']
+    },
+    'luxx noir london': {
+    'dragName': 'Luxx Noir London',
+    'seasons':[ 15, ],
+    'age': 22,
+    'hometown': 'East Orange, New Jersey',
+    'outcomes': ['Top 4']
+    },
+    'mistress isabelle brooks': {
+    'dragName': 'Mistress Isabelle Brooks',
+    'seasons':[ 15, ],
+    'age': 24,
+    'hometown': 'Houston, Texas',
+    'outcomes': ['Top 4']
+    },
+    'loosey laduca': {
+    'dragName': 'Loosey LaDuca',
+    'seasons':[ 15, ],
+    'age': 32,
+    'hometown': 'Ansonia, CT',
+    'outcomes': ['5th']
+    },
+    'salina estitties': {
+    'dragName': 'Salina Estitties',
+    'seasons':[ 15, ],
+    'age': 31,
+    'hometown': 'Albuquerque, NM',
+    'outcomes': ['6th (Golden Boot)']
+    },
+    'marcia marcia marcia': {
+    'dragName': 'Marcia Marcia Marcia',
+    'seasons':[ 15, ],
+    'age': 25,
+    'hometown': 'New York City, New York',
+    'outcomes': ['7th']
+    },
+    'malaysia babydoll foxx': {
+    'dragName': 'Malaysia Babydoll Foxx',
+    'seasons':[ 15, ],
+    'age': 32,
+    'hometown': 'Miami, Florida',
+    'outcomes': ['8th (Miss Congeniality)']
+    },
+    'spice': {
+    'dragName': 'Spice',
+    'seasons':[ 15, ],
+    'age': 23,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['9th']
+    },
+    'jax': {
+    'dragName': 'Jax',
+    'seasons':[ 15, ],
+    'age': 25,
+    'hometown': 'Queens, New York',
+    'outcomes': ['10th']
+    },
+    'aura mayari': {
+    'dragName': 'Aura Mayari',
+    'seasons':[ 15, ],
+    'age': 30,
+    'hometown': 'Nashville, TN',
+    'outcomes': ['11th']
+    },
+    'robin fierce': {
+    'dragName': 'Robin Fierce',
+    'seasons':[ 15, ],
+    'age': 26,
+    'hometown': 'Hartford, CT',
+    'outcomes': ['12th']
+    },
+    'amethyst': {
+    'dragName': 'Amethyst',
+    'seasons':[ 15, ],
+    'age': 27,
+    'hometown': 'West Hartford, CT',
+    'outcomes': ['13th']
+    },
+    'sugar': {
+    'dragName': 'Sugar',
+    'seasons':[ 15, ],
+    'age': 25,
+    'hometown': 'Los Angeles, California',
+    'outcomes': ['14th']
+    },
+    'princess poppy': {
+    'dragName': 'Princess Poppy',
+    'seasons':[ 15, ],
+    'age': 26,
+    'hometown': 'San Francisco, California',
+    'outcomes': ['15th']
+    },
+  'irene dubois': {
+    'dragName': 'Irene Dubois',
+    'seasons':[ 15, ],
+    'age': 29,
+    'hometown': 'Seattle, Washington',
+    'outcomes': ['16th']
+    },
+  }
 app.get('/', (request, response)=>{
     response.sendFile(__dirname + '/index.html')
 })
@@ -1158,6 +1363,11 @@ app.get('/api/:name',(request,response)=>{
         response.json(searchQueens(queenName))
     }
     
+})
+app.get('/api/season/:seasonNum', (request, response) => {
+  const season = +request.params.seasonNum;
+  const queensInSeason = Object.values(queens).filter(queen => queen.seasons.includes(season));
+  response.json(queensInSeason)
 })
 app.get('/js/main.js', (req, res)=>{
     res.setHeader('Content-Type', 'text/javascript')
